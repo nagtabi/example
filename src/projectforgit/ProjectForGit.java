@@ -12,6 +12,7 @@ public class ProjectForGit {
         expr = expr.replaceAll("\\.|,", "");
         expr = expr.replace("~", ",");
         System.out.println(expr);
+        System.out.println("sandbox branch");
     }
 
 }
