@@ -13,6 +13,7 @@ public class ProjectForGit {
         expr = expr.replace("~", ",");
         System.out.println(expr);
         System.out.println("sandbox branch");
+// Git komment Szilard
     }
 
 }
